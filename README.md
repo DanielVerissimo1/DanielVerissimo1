@@ -12,8 +12,6 @@
   
   ##
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVerissimo1&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&exclude_repo=academytaskhub,github-clone.ts,nextjs-luizomf,inventory-control-next,REACT,my-tours-layout,next14-project,my-tours-next,meus-passeios,proenem-manage,marvel-dev-api,python,atividade01.02,HTML,petshop,collaborate,sass-alura,Curso-JavaScript,curso_bootstrap,starwars-list,pokemon-devemdobro,Landing-Page,gatastrofic,academytaskhub-app,react-native-base-project&repo-private=true" />
-</a>
 
 ##
 
