@@ -10,10 +10,13 @@
 <a href="https://github.com/DanielVerissimo1">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&rank_icon=github&show_icons=true&repo-private=true" />
   
-  ##
+ ##
 
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVerissimo1&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&exclude_repo=academytaskhub,github-clone.ts,nextjs-luizomf,inventory-control-next,REACT,my-tours-layout,next14-project,my-tours-next,meus-passeios,proenem-manage,marvel-dev-api,python,atividade01.02,HTML,petshop,collaborate,sass-alura,Curso-JavaScript,curso_bootstrap,starwars-list,pokemon-devemdobro,Landing-Page,gatastrofic,academytaskhub-app,react-native-base-project&repo-private=true" />
+</a>
 
 ##
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielVerissimo1&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
