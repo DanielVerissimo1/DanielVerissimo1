@@ -41,16 +41,16 @@
 </table>
 </div>
 
-<div align="center">
-  <a href="https://github.com/DanielVerissimo1">
-  <div align="center"> 
-<a href="https://github.com/DanielVerissimo1">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&rank_icon=github&show_icons=true&repo-private=true" />
-  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&layout=compact" width="50%"/> 
+</p>
+
  ##
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielVerissimo1&layout=compact&langs_count=8&card_width=320&theme=midnight-purple&exclude_repo=academytaskhub,&repo-private=true" />
-</a>
+<p align="center">
+    <a href="https://github.com/sacredAST?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="DanielVerissimo1 github-readme-stats"/></a>
+    <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=DanielVerissimo1&theme=midnight-purple&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
 
 ##
 
