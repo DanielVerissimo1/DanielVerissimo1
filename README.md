@@ -5,21 +5,29 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table color=4B0082 align="center">
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="80">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" />
+      <br>Bootstrap
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
     </td>
     <td align="center" width="96"> 
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
