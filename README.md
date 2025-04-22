@@ -1,8 +1,37 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=110&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=36&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Daniel+Verissimo+;I'm+17+years+old;I+am+from+Brasil,+CE;;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Daniel+Verissimo+;I'm+17+years+old;I+am+from+Brasil,+CE;;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+<div style="display: flex; align-items: flex-start; align: center">
+<table color=4B0082 align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
+      <br>AWS
+    </td>              
+ </tr>
+</table>
+</div>
 
 <div align="center">
   <a href="https://github.com/DanielVerissimo1">
@@ -22,18 +51,6 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielVerissimo1&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
-</div>
-
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="DanielVerissimo1-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="DanielVerissimo1-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="DanielVerissimo1-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="DanielVerissimo1-GITHUB" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@8.5.0/icons/github.svg">
-  <img align="center" alt="DanielVerissimo1-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="DanielVerissimo1-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  </div>
-  
-  ##
 
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -44,4 +61,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=110&section=footer"/>
