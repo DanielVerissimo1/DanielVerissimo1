@@ -1,20 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=36&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Daniel+Verissimo+;I'm+17+years+old;I+am+from+Brasil,+CE;;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=36&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Daniel+Verissimo+;I'm+17+years+old;I+am+from+Brasil,+CE;)](https://git.io/typing-svg)
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table color=4B0082 align="center">
   <tr>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML" />
+    <td align="center" width="95">
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
       <br>HTML
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center" width="80">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="Bootstrap" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -69,4 +69,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
