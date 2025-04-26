@@ -42,23 +42,23 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&layout=compact" width="50%"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&layout=compact" width="50%" alt="DanielVerissimo1 github-readme-stats"/> 
 </p>
 
  ##
 
 <p align="center">
-    <a href="https://github.com/sacredAST?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="DanielVerissimo1 github-readme-stats"/></a>
-    <a href="https://github.com/sacredAST?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=DanielVerissimo1&theme=midnight-purple&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="DanielVerissimo1 github-readme-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DanielVerissimo1&theme=midnight-purple&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="DanielVerissimo1 github-readme-stats"/>
 </p>
 
 ##
 
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielVerissimo1&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
+
 
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
