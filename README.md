@@ -42,14 +42,14 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&layout=compact" width="50%" alt="DanielVerissimo1 github-readme-stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&hide_border=true&layout=compact" width="50%" alt="DanielVerissimo1 github-readme-stats"/> 
 </p>
 
  ##
 
 <p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="DanielVerissimo1 github-readme-stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DanielVerissimo1&theme=midnight-purple&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="DanielVerissimo1 github-readme-stats"/>
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="DanielVerissimo1 github-readme-stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=DanielVerissimo1&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="DanielVerissimo1 github-readme-stats"/>
 </p>
 
 ##
