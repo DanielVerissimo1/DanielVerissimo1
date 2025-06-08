@@ -5,17 +5,9 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table color=4B0082 align="center">
   <tr>
-    <td align="center" width="95">
-      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML" />
-      <br>HTML
-    </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
-      <br>Bootstrap
+       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -26,17 +18,21 @@
       <br>React
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96"> 
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
       <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" alt="Nodejs" />
-      <br>AWS
-    </td>              
+    </td>        
  </tr>
 </table>
 </div>
