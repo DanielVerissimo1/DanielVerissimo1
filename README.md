@@ -59,7 +59,7 @@
         <a target="_blank" href="https://twitter.com/AshutoshD07"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
     <td align='center' width="60">
-        <a target="_blank" href="https://www.instagram.com/daniel.veri10/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
+        <a target="_blank" href="https://www.instagram.com/daniel.verissimo1/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
         <a target="_blank" href="https://www.linkedin.com/in/daniel-verissimo/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
