@@ -56,9 +56,6 @@
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a target="_blank" href="https://twitter.com/AshutoshD07"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
-    </td>
-    <td align='center' width="60">
         <a target="_blank" href="https://www.instagram.com/daniel.verissimo1/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
     </td>
     <td align='center' width="60">
