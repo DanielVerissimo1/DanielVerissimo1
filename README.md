@@ -38,7 +38,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&hide_border=true&layout=compact width="50%" alt="DanielVerissimo1 github-readme-stats"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&hide_border=true&layout=compact" width="50%" alt="DanielVerissimo1 github-readme-stats"/> 
 </p>
 
 
