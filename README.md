@@ -41,12 +41,11 @@
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="DanielVerissimo1 github-readme-stats"/>
     <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&hide_border=true&layout=compact"
-    width="48%"
+    width="41%"
     alt="DanielVerissimo1 github-readme-stats-fast"
   />
 
 </p>
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielVerissimo1&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
