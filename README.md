@@ -6,49 +6,49 @@
 <table color=4B0082 align="center">
   <tr>
     <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
+    </td>
+    <td align="center" width="96">
+       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="68" height="68" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="55" height="55" alt="Next.js" />
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
       <br>Next.js
     </td>
     <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="55" height="55"/>
+      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
+      <br>Vite
+    </td>
+    <td align="center" width="96">
+      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
       <br>Tailwind
     </td>
+    <td align="center" width="96"> 
+        <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
+      <br>Bootstrap
+    </td>   
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       <br>Python
     </td>
-    <td align="center" width="96"> 
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="Git" />
-      <br>Git
-    </td>        
  </tr>
 </table>
 </div>
 
 <p align="center">
-  <img 
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="DanielVerissimo1 github-readme-stats"/>
+    <img 
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&hide_border=true&layout=compact"
-    width="50%"
+    width="48%"
     alt="DanielVerissimo1 github-readme-stats-fast"
   />
-</p>
 
-
-<p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="DanielVerissimo1 github-readme-stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=DanielVerissimo1&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="DanielVerissimo1 github-readme-stats"/>
 </p>
 
 
