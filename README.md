@@ -51,7 +51,7 @@
 
 <div>
   <samp>
-    <h2 align="center"><i>Redes Sociais</i></h2>
+    <h2 align="center"><i>Fale Comigo</i></h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/daniel-verissimo/" target="blank"><img align="center"
