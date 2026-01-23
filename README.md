@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6c1dc5&height=240&section=header&text=Daniel%20Verissimo&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Desenvolvedor%20Front-End%20Junior&descAlignY=53&descAlign=64" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c1dc5&height=240&section=header&text=Daniel%20Verissimo&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Desenvolvedor%20Front-End%20Junior&descAlignY=53&descAlign=64" width="100%"/>
 </div>
 
 <div style="display: flex; align-items: flex-start; align: center">
@@ -67,6 +67,21 @@ Minha trajetória é guiada pela resolução de problemas e pela criação de so
 </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielVerissimo1&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Conheça Meus Projetos
+
+<div>
+  <p align="center">
+  <a href="https://github.com/DanielVerissimo1/plataforma-inovacao-squad03-front-end">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=plataforma-inovacao-squad03-front-end&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+</a>
+	<a href="https://github.com/DanielVerissimo1/amotur-front-end">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=amotur-front-end&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+    <a href="https://github.com/DanielVerissimo1/danielportifolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=danielportifolio&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+</a>
+</a>
+  </p>
+</div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecte-se Comigo
 <div>
