@@ -66,7 +66,12 @@ Minha trajetória é guiada pela resolução de problemas e pela criação de so
 
 </p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielVerissimo1&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center" style="width: 98%; margin: 0 auto;">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DanielVerissimo1&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  </a>
+</div>
+
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Conheça Meus Projetos
 
 <div>
