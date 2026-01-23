@@ -45,13 +45,13 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Sou Desenvolvedor Front-End, com foco em qualidade, na construção de aplicações web modernas, escaláveis e bem estruturadas. Atuo principalmente com React, Next.js e TypeScript.
+Sou Desenvolvedor Front-End, com foco na construção de aplicações web modernas, escaláveis e bem estruturadas. Atuo principalmente com React, Next.js e TypeScript.
 
 > “Aproveitando a IA como uma ferramenta profissional, não como um substituto.”
 
 Minha trajetória é guiada pela resolução de problemas e pela criação de soluções eficientes, priorizando código limpo, boas práticas e arquitetura de front-end. Busco constantemente alinhar tecnologia e negócio para entregar produtos com valor real e impacto positivo.
 
-- 🤝 Valorizo o trabalho em equipe, a troca de ideias e aprender com as pessoas ao meu redor.
+- 🤝 Valorizo o trabalho em equipe, a troca de ideias e o aprendizado contínuo.
 - 📚 Atualmente aprendendo e aprofundando conhecimentos no ecossistema JavaScript.
 - ⚙️ Aplicando metodologias ágeis no dia a dia
 
