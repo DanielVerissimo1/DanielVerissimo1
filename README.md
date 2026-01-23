@@ -49,26 +49,26 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielVerissimo1&bg_color=000000&color=8d43e2&line=8d43e2&point=8d43e2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align='center'><i>Redes Sociais</i></h3>
-<div align='center'>
- 
-<table width="100" align='center'>
-<tr>
-    <td align='center' width="60">
-        <a target="_blank" href="https://www.instagram.com/daniel.verissimo1/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
-    </td>
-    <td align='center' width="60">
-        <a target="_blank" href="https://www.linkedin.com/in/daniel-verissimo/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="60"></a>
-    </td>
-    <td align='center' width="70">
-       <a href="https://www.youtube.com/@Dandan.tutoriais" target="_blank"><img alt="Youtube" title="Youtube" src="https://img.icons8.com/?size=100&id=19318&format=png&color=000000"/></a>
-    </td>
-    <td align='center' width="65">
-       <a href = "mailto:danielsantoss1300@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" target="_blank"></a>
-    </td>
-</tr>
-</table>
-
+<div>
+  <samp>
+    <h2 align="center"><i>Redes Sociais</i></h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/daniel-verissimo/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:danielsantoss1300@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://www.instagram.com/daniel.verissimo1/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+55988083571" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=footer"/>
