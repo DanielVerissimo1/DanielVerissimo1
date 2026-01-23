@@ -85,6 +85,9 @@ Minha trajetória é guiada pela resolução de problemas e pela criação de so
       <a href="https://wa.me/+5588988083571" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
+      <a href="https://daniel-verissimodev.vercel.app" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Portfolio-4B0082.svg?style=for-the-badge&logo=google-chrome&logoColor=white"
+         alt="portfolio" height="30"/></a>
       <br>
     </p>
   </samp>
