@@ -123,4 +123,4 @@ Minha trajetória é guiada pela resolução de problemas e pela criação de so
   </samp>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c1dc5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7c1dc5&height=140&section=footer"/>
