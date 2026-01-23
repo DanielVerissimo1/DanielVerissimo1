@@ -52,7 +52,7 @@ Sou Desenvolvedor Front-End, com foco na construção de aplicações web modern
 Minha trajetória é guiada pela resolução de problemas e pela criação de soluções eficientes, priorizando código limpo, boas práticas e arquitetura de front-end. Busco constantemente alinhar tecnologia e negócio para entregar produtos com valor real e impacto positivo.
 
 - 🤝 Valorizo o trabalho em equipe, a troca de ideias e o aprendizado contínuo.
-- 📚 Atualmente aprendendo e aprofundando conhecimentos no ecossistema JavaScript.
+- 📚 Atualmente estou aprofundando meus conhecimentos no ecossistema JavaScript.
 - ⚙️ Aplicando metodologias ágeis no dia a dia
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Status
