@@ -77,22 +77,22 @@ Atuo principalmente com React, Next.js e TypeScript, desenvolvendo aplicações 
 <div>
   <p align="center">
   <a href="https://github.com/DanielVerissimo1/plataforma-inovacao-squad03-front-end">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=plataforma-inovacao-squad03-front-end&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=plataforma-inovacao-squad03-front-end&theme=midnight-purple&hide_border=true" alt="plataforma-inovacao-squad03-front-end" />
   </a>
 	<a href="https://github.com/DanielVerissimo1/amotur-front-end">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=amotur-front-end&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=amotur-front-end&theme=midnight-purple&hide_border=true" alt="amotur-front-end" />
     </a>
 	<a href="https://github.com/DanielVerissimo1/danielportifolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=danielportifolio&theme=midnight-purple&hide_border=true&cache_seconds=0" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=danielportifolio&theme=midnight-purple&hide_border=true&cache_seconds=0" alt="danielportifolio" />
     </a>
 	<a href="https://github.com/DanielVerissimo1/explorerepositorios">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=explorerepositorios&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=explorerepositorios&theme=midnight-purple&hide_border=true" alt="explorerepositorios" />
     </a>
 	  <a href="https://github.com/DanielVerissimo1/RioAracatia-u">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=RioAracatia-u&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=RioAracatia-u&theme=midnight-purple&hide_border=true" alt="ioAracatia-u" />
     </a>
 	<a href="https://github.com/DanielVerissimo1/ToDoList">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=ToDoList&theme=midnight-purple&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=ToDoList&theme=midnight-purple&hide_border=true" alt="ToDoList" />
     </a>
    
   </p>
