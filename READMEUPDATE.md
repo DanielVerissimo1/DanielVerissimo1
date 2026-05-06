@@ -15,36 +15,39 @@ Atuo principalmente com o ecossistema JavaScript, com foco em React, Node.js usa
 - ⚙️ Aplicando metodologias ágeis no dia a dia
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Minhas Skills</h2>
 
-<kbd style="padding:12px;">
-  <kbd>Front-end</kbd>
-  <br><br>
+<kbd>
+   <kbd>Front-end</kbd>
 
-  <img width="80" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" title="JavaScript"/>
-  <img width="80" src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" title="TypeScript"/>
-  <img width="70" src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" title="React"/>
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js"/>
-  <img width="60" src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="TanStack Query" title="TanStack Query"/>
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" title="Vite"/>
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" title="Tailwind CSS"/>
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" title="Bootstrap"/>
-
+  <p align="center">
+	<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img width="80" src="https://techstack-generator.vercel.app/js-icon.svg"/>
+    <img width="80" src="https://techstack-generator.vercel.app/ts-icon.svg"/>
+    <img width="70" src="https://techstack-generator.vercel.app/react-icon.svg"/>
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+    <img width="60" src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg"/>
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
+    <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+    <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  </p>
 </kbd>
 <br><br>
 <kbd>
-  <kbd>Back-end</kbd>
+   <kbd>Back-end</kbd>
   <br><br>
 
-  <img width="80" src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" title="JavaScript"/>
-  <img width="80" src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" title="TypeScript"/>
-  <img width="70" src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" title="Node.js"/>
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" title="Express"/>
-  <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS" title="NestJS"/>
-  <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" alt="Fastify" title="Fastify"/>
-  <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL"/>
-  <img width="70" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" title="MySQL"/>
-  <img width="70" src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" title="Docker"/>
-  <img width="70" src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" title="Jest"/>
-
+  <p align="center">
+    <img width="80" src="https://techstack-generator.vercel.app/js-icon.svg"/>
+    <img width="80" src="https://techstack-generator.vercel.app/ts-icon.svg"/>
+   <img width="60" src="https://cdn.simpleicons.org/node.js" />
+    <img width="60" src="https://cdn.simpleicons.org/express/ffffff" alt="Express"/>
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg"/>
+    <img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"/>
+    <img width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+    <img width="70" src="https://techstack-generator.vercel.app/mysql-icon.svg"/>
+    <img width="70" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
+    <img width="70" src="https://techstack-generator.vercel.app/jest-icon.svg"/>
+  </p>
 </kbd>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Status
