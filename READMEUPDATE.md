@@ -17,13 +17,14 @@ Atuo principalmente com o ecossistema JavaScript, com foco em React, Node.js usa
 
 <kbd>
    <kbd>Front-end</kbd>
+  <br><br>
 
   <p align="center">
 	<img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img width="80" src="https://techstack-generator.vercel.app/js-icon.svg"/>
-    <img width="80" src="https://techstack-generator.vercel.app/ts-icon.svg"/>
-    <img width="70" src="https://techstack-generator.vercel.app/react-icon.svg"/>
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
     <img width="60" src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg"/>
     <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg"/>
@@ -37,8 +38,8 @@ Atuo principalmente com o ecossistema JavaScript, com foco em React, Node.js usa
   <br><br>
 
   <p align="center">
-    <img width="80" src="https://techstack-generator.vercel.app/js-icon.svg"/>
-    <img width="80" src="https://techstack-generator.vercel.app/ts-icon.svg"/>
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+    <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
    <img width="60" src="https://cdn.simpleicons.org/node.js" />
     <img width="60" src="https://cdn.simpleicons.org/express/ffffff" alt="Express"/>
     <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg"/>
