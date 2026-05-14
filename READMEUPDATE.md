@@ -21,9 +21,17 @@ Atuo principalmente com o ecossistema JavaScript, com foco em React, Node.js usa
 
 <p align="center">
     <img 
-      src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,mui,bootstrap&perline=10"
-      width="650"
+      src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=5"
+      width="325"
     />
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery&theme=dark&titles=true" 
+      width="58"
+	/>
+	<img 
+      src="https://skillicons.dev/icons?i=nextjs,vite,tailwind,mui,bootstrap&perline=5"
+      width="325"
+    />
+
   </p>
 </kbd>
 <br><br>
