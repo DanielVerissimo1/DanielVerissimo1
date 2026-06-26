@@ -1,59 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c1dc5&height=240&section=header&text=Daniel%20Verissimo&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Desenvolvedor%20Front-End%20Junior&descAlignY=53&descAlign=64" width="100%"/>
-</div>
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table color=4B0082 align="center">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="68" height="68" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/emblem-light.svg" alt="icon" width="55" height="55" />
-  <br>TanStack
-    </td>
-    <td align="center" width="96">
-      <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-      <br>Vite
-    </td>
-    <td align="center" width="96">
-      <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96"> 
-        <img height="55" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />    
-      <br>Bootstrap
-    </td>   
- </tr>
-</table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c1dc5&height=230&section=header&text=Daniel%20Verissimo&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Desenvolvedor%20Front-End%20Junior&descAlignY=53&descAlign=64" width="100%"/>
 </div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mim
 
-
-
-Sou Desenvolvedor Front-End, focado na criação de experiências digitais marcantes, desde o conceito até a interface final. Acredito que cada linha de código conecta inovação, propósito e valor, sempre com atenção à qualidade, organização e impacto real para o usuário.
+Sou Desenvolvedor Full-Stack, focado na criação de experiências digitais marcantes, desde o servidor até a interface final. Acredito que cada linha de código conecta inovação, propósito e valor, sempre com atenção à qualidade, organização e impacto real para o usuário.
 
 > “Aproveitando a IA como uma ferramenta profissional, não como um substituto.”
 
-Atuo principalmente com React, Next.js e TypeScript, desenvolvendo aplicações escaláveis, bem estruturadas e orientadas à melhor experiência do usuário. Gosto de unir tecnologia e negócio para transformar necessidades reais em soluções eficientes e sustentáveis.
+Atuo principalmente com o ecossistema JavaScript, com foco em React, Node.js usando TypeScript, desenvolvendo aplicações escaláveis, bem estruturadas e orientadas tanto à experiência do usuário quanto à robustez do sistema. Gosto de unir tecnologia e negócio para transformar necessidades reais em soluções eficientes e sustentáveis.
 
 - 🤝 Valorizo o trabalho em equipe, a troca de ideias e o aprendizado contínuo.
 - 📚 Atualmente estou aprofundando meus conhecimentos no ecossistema JavaScript.
 - ⚙️ Aplicando metodologias ágeis no dia a dia
+<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Minhas Skills</h2>
+
+<kbd>
+   <kbd>Front-end</kbd>
+  <br><br>
+
+<p align="center">
+    <img 
+      src="https://skillicons.dev/icons?i=html,css,js,ts,react&perline=5"
+      width="325"
+    />
+	<img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery&theme=dark&titles=true" 
+      width="58"
+	/>
+	<img 
+      src="https://skillicons.dev/icons?i=nextjs,vite,tailwind,mui,bootstrap&perline=5"
+      width="325"
+    />
+
+  </p>
+</kbd>
+<br><br>
+<kbd>
+   <kbd>Back-end</kbd>
+  <br><br>
+
+  <p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mysql,docker,prisma,jest&perline=10"
+    width="650"
+  />
+</p>
+</kbd>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Status
 <p align="center">
