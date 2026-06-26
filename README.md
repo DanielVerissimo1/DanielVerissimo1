@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mim
 
-Sou Desenvolvedor Full-Stack, focado na criação de experiências digitais marcantes, desde o servidor até a interface final. Acredito que cada linha de código conecta inovação, propósito e valor, sempre com atenção à qualidade, organização e impacto real para o usuário.
+Sou Desenvolvedor Front-End, focado na criação de experiências digitais marcantes, desde o servidor até a interface final. Acredito que cada linha de código conecta inovação, propósito e valor, sempre com atenção à qualidade, organização e impacto real para o usuário.
 
 > “Aproveitando a IA como uma ferramenta profissional, não como um substituto.”
 
