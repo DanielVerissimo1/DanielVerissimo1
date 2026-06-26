@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c1dc5&height=230&section=header&text=Daniel%20Verissimo&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Desenvolvedor%20Front-End%20Junior&descAlignY=53&descAlign=64" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c1dc5&height=220&section=header&text=Daniel%20Verissimo&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Desenvolvedor%20Front-End%20Junior&descAlignY=53&descAlign=64" width="100%"/></div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mim
 
