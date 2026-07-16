@@ -46,15 +46,11 @@ Atuo principalmente com o ecossistema JavaScript, com foco em React, Node.js usa
 </p>
 </kbd>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Github Status
-<p align="center">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="53%" alt="DanielVerissimo1 github-readme-stats"/>
-    <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&hide_border=true&layout=compact"
-    width="45%"
-    alt="DanielVerissimo1 github-readme-stats-fast"
-  />
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50"> </picture> Github Status
 
+<p align="center">
+  <img src="https://daniel-github-stats.vercel.app/api?username=DanielVerissimo1&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="51%" alt="DanielVerissimo1 github-readme-stats" />
+  <img src="https://daniel-github-stats.vercel.app/api/top-langs/?username=DanielVerissimo1&theme=midnight-purple&hide_border=true&layout=compact" width="46%" alt="DanielVerissimo1 github-readme-stats-fast" />
 </p>
 
 <div align="center" style="width: 98%; margin: 0 auto;">
@@ -63,30 +59,27 @@ Atuo principalmente com o ecossistema JavaScript, com foco em React, Node.js usa
   </a>
 </div>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Conheça Meus Projetos
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50"> </picture> Conheça Meus Projetos
 
-<div>
-  <p align="center">
+<div align="center">
   <a href="https://github.com/DanielVerissimo1/plataforma-inovacao-squad03-front-end">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=plataforma-inovacao-squad03-front-end&theme=midnight-purple&hide_border=true" alt="plataforma-inovacao-squad03-front-end" />
+    <img width="500" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=plataforma-inovacao-squad03-front-end&theme=midnight-purple&hide_border=true" alt="plataforma-inovacao-squad03-front-end" />
   </a>
-	<a href="https://github.com/DanielVerissimo1/amotur-front-end">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=amotur-front-end&theme=midnight-purple&hide_border=true" alt="amotur-front-end" />
-    </a>
-	<a href="https://github.com/DanielVerissimo1/danielportifolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=danielportifolio&theme=midnight-purple&hide_border=true&cache_seconds=0" alt="danielportifolio" />
-    </a>
-	<a href="https://github.com/DanielVerissimo1/explorerepositorios">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=explorerepositorios&theme=midnight-purple&hide_border=true" alt="explorerepositorios" />
-    </a>
-	  <a href="https://github.com/DanielVerissimo1/RioAracatia-u">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=RioAracatia-u&theme=midnight-purple&hide_border=true" alt="ioAracatia-u" />
-    </a>
-	<a href="https://github.com/DanielVerissimo1/ToDoList">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=ToDoList&theme=midnight-purple&hide_border=true" alt="ToDoList" />
-    </a>
-   
-  </p>
+  <a href="https://github.com/DanielVerissimo1/amotur-front-end">
+    <img width="500" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=amotur-front-end&theme=midnight-purple&hide_border=true" alt="amotur-front-end" />
+  </a>
+  <a href="https://github.com/DanielVerissimo1/danielportifolio">
+    <img width="500" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=danielportifolio&theme=midnight-purple&hide_border=true&cache_seconds=0" alt="danielportifolio" />
+  </a>
+  <a href="https://github.com/DanielVerissimo1/explorerepositorios">
+    <img width="500" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=explorerepositorios&theme=midnight-purple&hide_border=true" alt="explorerepositorios" />
+  </a>
+  <a href="https://github.com/DanielVerissimo1/RioAracatia-u">
+    <img width="500" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=RioAracatia-u&theme=midnight-purple&hide_border=true" alt="RioAracatia-u" />
+  </a>
+  <a href="https://github.com/DanielVerissimo1/ToDoList">
+    <img width="500" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=ToDoList&theme=midnight-purple&hide_border=true" alt="ToDoList" />
+  </a>
 </div>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecte-se Comigo
