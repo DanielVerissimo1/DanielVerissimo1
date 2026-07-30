@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c1dc5&height=220&section=header&text=Daniel%20Verissimo&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Desenvolvedor%20Front-End%20Junior&descAlignY=53&descAlign=64" width="100%"/></div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c1dc5&height=220&section=header&text=Daniel%20Verissimo&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=%20Desenvolvedor%20Full-Stack%20Junior&descAlignY=53&descAlign=64" width="100%"/></div>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mim
 
-Sou Desenvolvedor Front-End, focado na criação de experiências digitais marcantes, desde o servidor até a interface final. Acredito que cada linha de código conecta inovação, propósito e valor, sempre com atenção à qualidade, organização e impacto real para o usuário.
+Sou Desenvolvedor Full-Stack, focado na criação de experiências digitais marcantes, desde o servidor até a interface final. Acredito que cada linha de código conecta inovação, propósito e valor, sempre com atenção à qualidade, organização e impacto real para o usuário.
 
 > “Aproveitando a IA como uma ferramenta profissional, não como um substituto.”
 
