@@ -61,26 +61,38 @@ Atuo principalmente com o ecossistema JavaScript, com foco em React, Node.js usa
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="50"> </picture> Conheça Meus Projetos
 
-<div align="center">
-  <a href="https://github.com/DanielVerissimo1/plataforma-inovacao-squad03-front-end">
-    <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=plataforma-inovacao-squad03-front-end&theme=midnight-purple&hide_border=true" alt="plataforma-inovacao-squad03-front-end" />
-  </a>
-  <a href="https://github.com/DanielVerissimo1/amotur-front-end">
-    <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=amotur-front-end&theme=midnight-purple&hide_border=true" alt="amotur-front-end" />
-  </a>
-  <a href="https://github.com/DanielVerissimo1/danielportifolio">
-    <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=danielportifolio&theme=midnight-purple&hide_border=true&cache_seconds=0" alt="danielportifolio" />
-  </a>
-  <a href="https://github.com/DanielVerissimo1/explorerepositorios">
-    <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=explorerepositorios&theme=midnight-purple&hide_border=true" alt="explorerepositorios" />
-  </a>
-  <a href="https://github.com/DanielVerissimo1/RioAracatia-u">
-    <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=RioAracatia-u&theme=midnight-purple&hide_border=true" alt="RioAracatia-u" />
-  </a>
-  <a href="https://github.com/DanielVerissimo1/ToDoList">
-    <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=ToDoList&theme=midnight-purple&hide_border=true" alt="ToDoList" />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://github.com/DanielVerissimo1/plataforma-inovacao-squad03-front-end">
+      <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=plataforma-inovacao-squad03-front-end&theme=midnight-purple&hide_border=true" alt="Topic — Plataforma de
+      Inovação" />
+    </a>
+    <a href="https://github.com/DanielVerissimo1/amotur-front-end">
+      <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=amotur-front-end&theme=midnight-purple&hide_border=true" alt="LitorMap — AMOTUR" />
+    </a>
+    <a href="https://github.com/DanielVerissimo1/central-copa">
+      <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=central-copa&theme=midnight-purple&hide_border=true" alt="Central Copa 2026 — Aplicação Full-Stack" />
+    </a>
+    <a href="https://github.com/DanielVerissimo1/Rocketlog">
+      <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=Rocketlog&theme=midnight-purple&hide_border=true" alt="Rocketlog — API de Gerenciamento de Entregas" />
+    </a>
+    <a href="https://github.com/DanielVerissimo1/gerenciamento-biblioteca-front-end">
+      <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=gerenciamento-biblioteca-front-end&theme=midnight-purple&hide_border=true" alt="Gerenciamento de
+      Biblioteca — Front-End" />
+    </a>
+    <a href="https://github.com/DanielVerissimo1/gerenciamneto-biblioteca-api">
+      <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=gerenciamneto-biblioteca-api&theme=midnight-purple&hide_border=true" alt="Gerenciamento de Biblioteca —
+      API REST" />
+    </a>
+    <a href="https://github.com/DanielVerissimo1/sistema-de-reembolso-refund">
+      <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=sistema-de-reembolso-refund&theme=midnight-purple&hide_border=true" alt="Refund — Sistema de Gestão de
+      Reembolsos" />
+    </a>
+    <a href="https://github.com/DanielVerissimo1/explorerepositorios">
+      <img width="395" src="https://daniel-github-stats.vercel.app/api/pin/?username=DanielVerissimo1&repo=explorerepositorios&theme=midnight-purple&hide_border=true" alt="GitHub Explorer — Next.js e API do
+      GitHub" />
+    </a>
+  </div>
+
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conecte-se Comigo
 <div>
