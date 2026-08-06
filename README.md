@@ -40,7 +40,7 @@ Atuo principalmente com o ecossistema JavaScript, com foco em React, Node.js usa
 
   <p align="center">
   <img 
-    src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,mysql,docker,prisma,jest&perline=10"
+    src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,postgres,mysql,docker,prisma,jest&perline=10"
     width="650"
   />
 </p>
